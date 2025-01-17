@@ -90,9 +90,3 @@ The dataset `churn_modeling.csv` includes the following features:
 ---
 
 
-## Contributors
-This project was developed as part of a hands-on deep learning tutorial series.
-
----
-
-If there are additional details or refinements you'd like, let me know! 😊
